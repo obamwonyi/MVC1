@@ -1,6 +1,10 @@
 <?php 
 
-//for the app
+//the app class 
+class App 
+{
+    
+}
 
 
 
