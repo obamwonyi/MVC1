@@ -1,6 +1,10 @@
 <?php 
 
-//page for the config 
+
+class config
+{
+    
+}
 
 
 
