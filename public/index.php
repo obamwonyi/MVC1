@@ -3,7 +3,7 @@
 
 //for the root route 
 
-class Library 
+interface Library 
 {
     
 }
