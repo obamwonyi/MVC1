@@ -1,9 +1,9 @@
 <?php 
 
 
-class config
+interface Config 
 {
-    
+
 }
 
 
