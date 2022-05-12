@@ -6,6 +6,14 @@ interface Loadtemplates
 
 }
 
+class Templates 
+{
+    public function __construct() 
+    {
+        
+    }
+}
+
 
 
 ?>
