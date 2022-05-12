@@ -8,4 +8,12 @@ interface Route
     
 }
 
+class Router 
+{
+    public function __construct()
+    {
+        
+    }
+}
+
 ?>
