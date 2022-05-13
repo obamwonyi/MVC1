@@ -10,7 +10,7 @@ class Templates
 {
     public function __construct() 
     {
-        c
+    
     }
 }
 
