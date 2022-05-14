@@ -8,7 +8,8 @@
         "psr-4": 
         {
             "APP/Classes" : "app/Classes", 
-            "APP/Libraries": "app/Libraries"
+            "APP/Libraries": "app/Libraries", 
+            "config":"config"
             
         }
 

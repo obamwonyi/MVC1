@@ -1,5 +1,7 @@
 <?php 
 
+namespace config;
+
 
 interface Config 
 {
