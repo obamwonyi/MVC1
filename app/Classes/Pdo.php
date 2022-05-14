@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Classess\Pdo ; 
+namespace App\Classess; 
 
 class  Pdo 
 {

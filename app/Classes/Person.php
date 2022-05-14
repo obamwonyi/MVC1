@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Classess\Person; 
+namespace App\Classess; 
 
 
 class Person 

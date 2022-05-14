@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Libraries\Library; 
+namespace App\Libraries; 
 
 class Library 
 {

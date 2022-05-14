@@ -5,6 +5,12 @@
     },
     "autoload": 
     {
+        "psr-4": 
+        {
+            "APP/Classes" : "app/Classes", 
+            ""
+            
+        }
 
     }
 }
