@@ -1,5 +1,4 @@
-<?php 
-
+<?php
 
 //for the root route 
 

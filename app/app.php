@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\app;
+namespace App;
 //the app class 
 interface App 
 {

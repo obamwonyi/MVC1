@@ -9,8 +9,8 @@
         {
             "APP/Classes" : "app/Classes", 
             "APP/Libraries": "app/Libraries", 
-            "config":"config"
-            
+            "config":"config",
+            "APP" : "app"
         }
 
     }
