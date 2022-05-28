@@ -1,0 +1,10 @@
+{
+    "author":"Destiny Obamwonyi", 
+    "description": "e-commerce", 
+    "private": "true", 
+    "dependencies": {
+        "gulp":"~3.9.0",
+        "laravel-elixir":"~5.0.0"
+    }
+
+}

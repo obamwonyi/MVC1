@@ -1,0 +1,4 @@
+#ignore the modules folder for npm dependencies as this can always be reinstalled 
+#node_modules
+#ignore the .env file for setting up local environment 
+*.env
